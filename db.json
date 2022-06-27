@@ -1,0 +1,50 @@
+{
+  "productList": [
+    {
+      "productName": "Dwanzi pekee kwao",
+      "category": "Fruits",
+      "quality": "Second Hand",
+      "price": 28383,
+      "comment": "anapenda mabananas ju ni nugu",
+      "date": "2022-06-01T21:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "json",
+      "category": "Electronics",
+      "quality": "Refurbished",
+      "price": 9900000000,
+      "comment": "pricey",
+      "date": "2022-06-26T21:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Githaimbitiga",
+      "category": "Electronics",
+      "quality": "Second Hand",
+      "price": 5000,
+      "comment": "He likes cheap muthafvckin secen han goods",
+      "date": "2022-06-26T21:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Githaimbitiga",
+      "category": "Electronics",
+      "quality": "Second Hand",
+      "price": 5000,
+      "comment": "He likes cheap ass second-hand goods",
+      "date": "2022-06-26T21:00:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
